@@ -28,6 +28,7 @@ public class TC1 {
 	public void before()
 	{
 		System.out.println("before");
+		System.out.println("hello");
 	}
 	
 	@Test
